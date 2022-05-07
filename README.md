@@ -2,7 +2,7 @@
 <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
 <a href="https://vuejs.org" target="_blank"><img src="https://gateway.pinata.cloud/ipfs/QmcpRC8XNi8Ko7NcdpJebWw3aiY2LKojja3btEiFnXnVk3" width="300"></a>
 </a>
-<a href="https://www.php.net"><br><img src="https://gateway.pinata.cloud/ipfs/QmfFReBkqLpRnEYz4zgSnU8YMHXQaPd5D8bfC8t6R1MuZj" width="200"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.php.net"><br><img src="https://gateway.pinata.cloud/ipfs/QmfFReBkqLpRnEYz4zgSnU8YMHXQaPd5D8bfC8t6R1MuZj" width="200"></a> 
 <a href=""><img src="https://gateway.pinata.cloud/ipfs/QmXX2CER9JLqc9awqBtufdJ5ZtCPjweKbfdBzUqMra4K5R" width="200"></a>
 </p>
 
